@@ -5,7 +5,7 @@ Realizado por Guilherme Gobbi, estudante do curso de Ciência da Computação, U
 
 Link do código funcionando no replit: https://replit.com/@GobbiDecottigni/CreditoCard#main.c <br />
 
-** Observação: ** Todos os cartões da American Express começam com 34 ou 37; a 
+*Observação:* Todos os cartões da American Express começam com 34 ou 37; a 
 maioria dos cartões da MasterCard começam com 51, 52, 53, 54 ou 55; e todos 
 os cartões da Visa começam com 4. <br />
 
